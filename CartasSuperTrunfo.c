@@ -117,5 +117,6 @@ int main() {
     printf("Densidade Populacional: %d\n", resultadodens);
     printf("PIB per Capita: %d\n", resultadoppc);
     printf("Super Poder: %d", resultadosuper);
+    
     return 0;
 }
